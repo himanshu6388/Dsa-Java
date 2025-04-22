@@ -25,17 +25,19 @@ public class question {
 
 
         // Question 3 Calculate total price of all item
-        // System.out.println("Enter the price of the pencil:");
-        // float pencil = sc.nextFloat();
-        // System.out.println("Enter price of pen:");
-        // float pen = sc.nextFloat();
-        // System.out.println("Enter the price of eraser:");
-        // float eraser = sc.nextFloat();
-        // float total = pencil + pen + eraser + (100/18);
-        // System.out.println("Total price is :" + total);
+        System.out.println("Enter the price of the pencil:");
+        float pencil = sc.nextFloat();
+        System.out.println("Enter price of pen:");
+        float pen = sc.nextFloat();
+        System.out.println("Enter the price of eraser:");
+        float eraser = sc.nextFloat();
+        float total = pencil + pen + eraser + (0.18f);
+        System.out.println("Total price is :" + total);
 
 
-        int $ = 4;
-        System.out.println($);
+
+        // Question 4
+        // int $ = 4;
+        // System.out.println($);
     }
 }
