@@ -1,4 +1,4 @@
-package advancepattern;
+package day07advancepattern;
 
 import java.util.Scanner;
 

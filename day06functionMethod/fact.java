@@ -1,4 +1,4 @@
-package functionMethod;
+package day06functionMethod;
 
 import java.util.Scanner;
 

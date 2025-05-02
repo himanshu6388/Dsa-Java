@@ -1,4 +1,4 @@
-package functionMethod;
+package day06functionMethod;
 
 public class product {
 
