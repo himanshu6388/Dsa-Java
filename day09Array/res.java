@@ -3,7 +3,7 @@ package day09Array;
 import java.util.*;
 
 public class res {
-    
+    // search key of given item
     public static int Search(String[] menu, String key){
         for(int i=0;i<menu.length;i++){
             if(menu[i] == key){
