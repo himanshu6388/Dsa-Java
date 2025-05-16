@@ -29,7 +29,7 @@ public class sortedMat {
             {32,33,39,50}
          };
 
-         int key = 300;
+         int key = 30;
 
          staircaseSearch(matrix, key);
     }
