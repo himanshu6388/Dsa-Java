@@ -22,8 +22,17 @@ public class str {
         // System.out.println(name);
 
 
-        String fullname = "Himanshu Verma";
-        System.out.println(fullname.length());
+        // String fullname = "Himanshu Verma";
+        // System.out.println(fullname.length());
         
+
+        // Concatination
+
+        
+        String firstName = "Himanshu";
+        String lastName = "Verma";
+        String fullname = firstName + " " + lastName;
+        System.out.println(fullname + "  is this.");
+
     }
 }
