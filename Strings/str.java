@@ -14,11 +14,16 @@ public class str {
 
         //String are IMMUTABLE
 
-        Scanner sc = new Scanner(System.in);
+        // Scanner sc = new Scanner(System.in);
 
-        String name;
-        // name = sc.next();
-        name = sc.nextLine();
-        System.out.println(name);
+        // String name;
+        // // name = sc.next();
+        // name = sc.nextLine();
+        // System.out.println(name);
+
+
+        String fullname = "Himanshu Verma";
+        System.out.println(fullname.length());
+        
     }
 }
