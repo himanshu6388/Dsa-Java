@@ -6,6 +6,12 @@ public class ar {
 
 
         // array - > List of  Element of the same type placed in a contiguous memory location
-        
+
+        // Ceating array
+        int marks[] =  new int[50];
+        int numbers[] = {1,2,3};    
+        String fruits[] = {"Apple","Banana","Mango","Orange"};
+        // Operation in Array
+
     }
 }
